@@ -1,0 +1,10 @@
+sort <filename>.
+cat -n  <filename>.
+cp <sourcefilename> <distination>.
+mv <sourceFilename> <distination>
+wc <filename>.
+head <filename>.
+tail <filename>.
+ls -a\p.
+cat index.txt | tr "[a-z]" "[A-Z]"
+PIPE |.

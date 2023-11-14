@@ -1,0 +1,25 @@
+Nmap scan report for _gateway (192.168.18.1)
+MAC Address: 9C:B2:E8:F4:AF:8A (Huawei Technologies)
+Nmap scan report for 192.168.18.48
+MAC Address: E4:B3:18:BC:28:7F (Intel Corporate)
+Nmap scan report for 192.168.18.83
+MAC Address: 4C:1A:3D:7D:F4:E5 (Guangdong Oppo Mobile Telecommunications)
+Nmap scan report for 192.168.18.114
+MAC Address: D8:BB:2C:15:76:7F (Apple)
+Nmap scan report for 192.168.18.133
+MAC Address: E0:13:B5:4A:43:41 (vivo Mobile Communication)
+Nmap scan report for 192.168.18.229
+MAC Address: 02:91:3D:62:15:38 (Unknown)
+Nmap scan report for 192.168.18.236
+MAC Address: D8:07:B6:5E:56:87 (Tp-link Technologies)
+Nmap scan report for 192.168.18.242
+MAC Address: 00:1C:BF:C8:D0:1C (Intel Corporate)
+Nmap scan report for 192.168.18.243
+MAC Address: AC:2B:6E:DF:38:AB (Intel Corporate)
+Nmap scan report for 192.168.18.245
+MAC Address: 5C:FB:3A:AC:04:21 (Unknown)
+Nmap scan report for 192.168.18.251
+MAC Address: 80:4E:70:43:DB:90 (Samsung Electronics)
+Nmap scan report for 192.168.18.253
+MAC Address: 4E:F8:D0:9B:3B:4E (Unknown)
+Nmap scan report for fawad (192.168.18.85)
